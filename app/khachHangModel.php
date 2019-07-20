@@ -9,7 +9,7 @@ class khachHangModel extends Model
     //
     static function getAll()
     {
-    	$sql="select * from tblkhachhang";
+    	$sql="select * from tblkhachhang where makhachhang=''";
     	$arrkhachhang=DB::select($sql);
     	return $arrkhachhang;
     }

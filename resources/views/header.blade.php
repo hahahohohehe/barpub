@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="col-lg-5">
-                    <div class="btn btn-group"><a class="text-white" style="font-size: 12px" href="index">HOME</a></div>
+                    <div class="btn btn-group"><a class="text-white" style="font-size: 12px" href="home">HOME</a></div>
                     <div class="btn btn-group"><a class="text-white" style="font-size: 12px" href="listban">BOOKING</a></div>
                     <div class="btn btn-group"><a class="text-white" style="font-size: 12px" href="#">EVENTs</a></div>
                     <div class="btn btn-group"><a class="text-white" style="font-size: 12px" href="#">CONTACT</a></div>
